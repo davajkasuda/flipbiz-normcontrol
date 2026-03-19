@@ -1,4 +1,3 @@
 {
-  "buildCommand": "tsc",
-  "outputDirectory": ".vercel/output/functions"
+  "outputDirectory": "public"
 }
